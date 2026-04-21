@@ -1,25 +1,94 @@
-# 🧠 Quiz Game App (Streamlit)
+# 🎯 Quiz Game Web App
 
-## 📌 Project Overview
-The Quiz Game App is an interactive web application built using Python and Streamlit. It allows users to answer a series of quiz questions and displays their score at the end.
+## 🚀 Live Demo
 
-This project demonstrates the use of Python for building simple web apps with user interaction and state management.
+👉 https://quiz-game-f8vnmvzu2luux6afluxsge.streamlit.app/
 
 ---
 
-## 🚀 Features
-- Interactive quiz interface  
-- Multiple questions with user input  
-- Real-time answer checking  
-- Score calculation  
-- Simple and user-friendly UI  
+## 📌 Project Overview
+
+This is an interactive **Quiz Game Web Application** built using **Python** and **Streamlit**.
+It allows users to answer multiple-choice questions and get instant feedback on their performance.
+
+---
+
+## ✨ Features
+
+* 🧠 Multiple-choice quiz questions
+* ⚡ Instant result display
+* 🎯 Score tracking
+* 💻 Simple and user-friendly interface
+* 🌐 Deployed online using Streamlit Cloud
 
 ---
 
 ## 🛠️ Technologies Used
-- Python  
-- Streamlit  
+
+* Python
+* Streamlit
+* Basic Data Structures (Lists, Dictionaries)
 
 ---
 
 ## 📂 Project Structure
+
+```
+quiz-game/
+│── app.py          # Main Streamlit application
+│── README.md       # Project documentation
+```
+
+---
+
+## ▶️ How to Run Locally
+
+### 1. Clone the repository
+
+```
+git clone <your-repo-link>
+cd quiz-game
+```
+
+### 2. Install dependencies
+
+```
+pip install streamlit
+```
+
+### 3. Run the app
+
+```
+streamlit run app.py
+```
+
+---
+
+## 📊 How It Works
+
+1. User opens the app
+2. Questions are displayed one by one
+3. User selects answers
+4. Final score is shown at the end
+
+---
+
+## 🎯 Future Improvements
+
+* Add timer for each question ⏱️
+* Add different quiz categories 📚
+* Store high scores 🏆
+* Improve UI design 🎨
+
+---
+
+## 👩‍💻 Author
+
+**Monisha Mariappan**
+Full Stack Web Developer (Fresher)
+
+---
+
+## 📜 License
+
+This project is for educational purposes.
